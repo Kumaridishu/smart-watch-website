@@ -9,6 +9,10 @@
     width: 100%;
     background:linear-gradient(45deg,#230223,#0f2d1e,black);
 }
+
+
+
+
 .container .navbar{
     /* background-color: red; */
     display: flex;
